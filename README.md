@@ -1,5 +1,7 @@
 # Terminal Window Size Checker
 
+![demo](./doc/demo.gif)
+
 terminal window size check with tui
 
 ## Usage
